@@ -1,4 +1,5 @@
 ## Projeto Secret Word
+![Jogo](https://user-images.githubusercontent.com/93451006/180860954-3e7eccd9-5fa1-40ed-ba46-466eaebe6702.png)
 
 Confira a aplicação:
 
