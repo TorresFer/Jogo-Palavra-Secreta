@@ -11,6 +11,7 @@ O usuário ao entrar no jogo consegue visualizar a tela com a palavra que ele te
 ## 🚧 Tecnologias
 Front:
 - React JS
+
 Back:
 - JSON Server
 
